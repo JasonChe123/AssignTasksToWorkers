@@ -1,3 +1,5 @@
+# task link: https://www.youtube.com/shorts/OWDdixdRros
+
 class Worker:
     def __init__(self, name: str, morning_timeslot: list, afternoon_timeslot: list):
         self.name = name
